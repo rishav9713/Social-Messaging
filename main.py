@@ -34,8 +34,8 @@ for messages in all:
             print(f"Today - {messages['time']}")
         else:
             print(f"{messages['date']} - {messages['time']}")
-        print("From: ", ), messages['id']
-        print("Message: ", ), messages['message']
+        print("From: ", messages['id'])
+        print("Message: ", messages['message'])
         print("--------------------------")
     except:
         pass
