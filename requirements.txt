@@ -1,0 +1,5 @@
+You Have to install these in your python, then you ready to test and chat universally(who using this program)
+
+pip install pymongo
+pip install dnspython
+pip install termcolor
