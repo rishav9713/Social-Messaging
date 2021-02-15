@@ -2,6 +2,8 @@ from pymongo import MongoClient, collection
 from datetime import datetime
 # from termcolor import colored
 
+# this is made by Rishav Kumar (lazy_codex)
+
 try:
     conn = MongoClient()
     print("connected")
